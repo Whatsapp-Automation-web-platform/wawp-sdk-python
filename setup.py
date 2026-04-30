@@ -9,7 +9,7 @@ setup(
     ],
     author="Wawp",
     author_email="support@wawp.net",
-    description="Official Python SDK for Wawp WhatsApp API",
+    description="Official Python Client for Wawp WhatsApp API. Modular, easy-to-use library for AI-powered WhatsApp automation.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/wawp-api/wawp-sdk-python",
